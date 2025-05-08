@@ -1,0 +1,12 @@
+textarea {
+    min-height: 400px;
+}
+
+.read {
+    background-color: #7d7d7d;
+  }
+
+  .unread {
+    background-color: white;
+    font-weight: bold;
+  }
